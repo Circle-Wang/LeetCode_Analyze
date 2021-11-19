@@ -1,2 +1,2 @@
-# -
+# 记录LeetCode自己的解题思路
 记录LeetCode算法题目以及解析
