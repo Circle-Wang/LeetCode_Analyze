@@ -2,6 +2,7 @@
      * @author cuilihuan
      * @data 2021/3/20 14:26
      */
+     
     public  class Problem_0517_超级洗衣机 {
         public int findMinMoves(int[] machines) {
             int n = machines.length, dressTotal = 0;

@@ -2,6 +2,7 @@
      * @author cuilihuan
      * @data 2021/3/20 20:10
      */
+     
     public  class Problem_0520_检测大写字母 {
         public boolean detectCapitalUse(String word) {
             boolean flag = true;
